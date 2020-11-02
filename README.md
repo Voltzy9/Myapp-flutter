@@ -1,5 +1,6 @@
 # First_app
 
+author:Arthur Genthial
 A new Flutter project.
 
 ## Getting Started
