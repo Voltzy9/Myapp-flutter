@@ -1,6 +1,10 @@
 # First_app
 
-author:Arthur Genthial
+author: 
+## Arthur Genthial
+##Ynov Lyon 2020
+
+
 A new Flutter project.
 
 ## Getting Started
